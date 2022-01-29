@@ -7,23 +7,21 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #17A2B8;
+    color: #3046C5;
 }
 
 header h2 {
-    color: #37121C;
+    color: #CEC8FF;
 }
 
 .site-footer {
-    background-image: linear-gradient(#EAA98D, white);
+    background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
 
 .jumbotron {
-    height: 350px;
     padding 30px;
-    background-image: url('https://i.imgur.com/AXe9pnZ.jpg');
-    background-size: cover;
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
     margin: 0;
 }
@@ -35,7 +33,7 @@ header h2 {
 }
 
 .navbar-dark {
-    background-color: #37121C;
+    background-color: #901CAD;
 }
 
 a, a:hover {
@@ -48,5 +46,5 @@ a, a:hover {
   }
 
   .carousel {
-      border: solid #37121C;
+      border: solid #5637DD;
   }
